@@ -1,0 +1,1 @@
+Hello view <?php echo $data['name'] ?>
